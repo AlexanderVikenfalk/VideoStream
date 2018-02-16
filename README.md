@@ -16,7 +16,6 @@ Just a code along based on the course: [modern react with redux](https://www.ude
 #### Screenshots ####
 ![Screenshot](https://media.giphy.com/media/5R2QJoKZLFvkYiiP4c/giphy.gif)
 
-
 ### Get in contact with me ###
 [LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
