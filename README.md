@@ -1,25 +1,22 @@
-# ReduxSimpleStarter
+#### Author: Alexander Vikenfalk
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+#### About this project: 
+Just a code along based on the course: [modern react with redux](https://www.udemy.com/react-redux/learn/v4/overview "modern react with redux"). It's a simple interface conected to the youtube v3 API.
 
-### Getting Started
+#### Technologies used: 
+* **React.js** for overall functionality. 
+* **CSS 3** for design.
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+#### How to use this service ####
+> git clone https://github.com/AlexanderVikenfalk/VideoStream.git
+> cd VideoStream
 > npm install
 > npm start
-```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Screenshots ####
+![Screenshot](https://media.giphy.com/media/5R2QJoKZLFvkYiiP4c/giphy.gif)
 
-```
-> npm install
-> npm start
-```
+
+### Get in contact with me ###
+[LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
+
