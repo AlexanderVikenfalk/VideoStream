@@ -8,10 +8,10 @@ Just a code along based on the course: [modern react with redux](https://www.ude
 * **CSS 3** for design.
 
 #### How to use this service ####
-* git clone https://github.com/AlexanderVikenfalk/VideoStream.git
-* cd VideoStream
-* npm install
-* npm start
+1. git clone https://github.com/AlexanderVikenfalk/VideoStream.git
+2. cd VideoStream
+3. npm install
+4. npm start
 
 #### Screenshots ####
 ![Screenshot](https://media.giphy.com/media/5R2QJoKZLFvkYiiP4c/giphy.gif)
